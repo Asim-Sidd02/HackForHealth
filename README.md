@@ -1,5 +1,12 @@
 # Mental-health-Chatbot
 
+## Install the requirements
+
+```py
+pip install -r requirements.txt 
+
+```
+
 ## Run the app with
 
 ```py
