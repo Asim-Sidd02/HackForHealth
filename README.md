@@ -3,7 +3,7 @@
 ## Run the app with
 
 ```py
-flask --app app --debug run
+waitress-serve --host=0.0.0.0 --port=5000 app:app
 
 ```
 
